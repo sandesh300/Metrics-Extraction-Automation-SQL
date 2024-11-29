@@ -1,0 +1,6 @@
+# requirements.txt
+python-dotenv
+supabase
+pandas
+celery
+redis
