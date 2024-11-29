@@ -191,8 +191,8 @@ Develop a Python script to execute these SQL queries and store the results in a 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/sandesh300/Metrics-Extraction-Automation-SQL
+   cd metrics-extraction-automation-sql
    ```
 
 2. **Install Dependencies**:
@@ -213,9 +213,9 @@ Develop a Python script to execute these SQL queries and store the results in a 
 ## Usage
 
 ### Generate Dummy Data
-Run the `dummy_data.py` script to generate mock data for testing:
+Run the `generate_dummy_data.py` script to generate mock data for testing:
 ```bash
-python dummy_data.py
+python generate_dummy_data.py
 ```
 
 ### Run the Pipeline Manually
